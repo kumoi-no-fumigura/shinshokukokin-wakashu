@@ -1,6 +1,7 @@
 {
  "work": "新続古今和歌集",
  "work_id": "kt-shinshokukokin",
+ "repo": "kumoi-no-fumigura/shinshokukokin-wakashu",
  "yomi": "しんしょくこきんわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -6472,7 +6473,7 @@
     338
    ],
    "no": 538,
-   "kotobagaki": "の淺茅がまもに衣接つらむ百首の歌奉りし時",
+   "kotobagaki": "百首の歌奉りし時",
    "author": "前大僧正義運",
    "text": "ABEおおまよふ秋の夜寒の袖の霜はらひもあへず搆つ衣かな",
    "sachu": ""
@@ -25749,6 +25750,5 @@
    "text": "たのむかな我が藤原の都よりあとたれそめし玉津之ま姫",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shinshokukokin-wakashu"
+ ]
 }
